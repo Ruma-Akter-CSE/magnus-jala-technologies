@@ -1,4 +1,4 @@
-// search from google in website 
+// searching from google in magnus website 
 
 package sec_project;
 
