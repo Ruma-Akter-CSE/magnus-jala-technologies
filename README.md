@@ -1,1 +1,1 @@
-https://ruma-akter-cse.github.io/magnus-jala-technologies/
+https://github.com/Ruma-Akter-CSE/magnus-jala-technologies
